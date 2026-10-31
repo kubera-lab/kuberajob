@@ -23,7 +23,7 @@ This repository **does not represent the current public positioning** of KUBERA 
 
 ### KUBERA LAB (active)
 
-**Location:** [github.com/jobkubera-lab/jobkubera-lab](https://github.com/jobkubera-lab/jobkubera-lab)
+**Location:** [github.com/kubera-lab/kubera-lab](https://github.com/kubera-lab/kubera-lab)
 
 Current engineering directions:
 - **AI agent systems & assurance** — bounded execution, evidence, permissions and human control
@@ -35,10 +35,10 @@ Current engineering directions:
 
 | Project | Purpose | Status |
 |---------|---------|--------|
-| [KUBERA Agent OS](https://github.com/jobkubera-lab/jobkubera-lab/tree/main/kubera-lab/agent-os) | AI control, assurance and bounded execution | P0 / flagship |
-| [KUBERA TAO LAB](https://github.com/jobkubera-lab/jobkubera-lab/tree/main/kubera-lab/kubera-tao-lab) | ML evaluation discipline | P1 / active research |
-| [KUBERA Real Estate OS](https://github.com/jobkubera-lab/jobkubera-lab/tree/main/kubera-lab/real-estate-os) | Applied product architecture + verified core | P1 |
-| [Tender Intelligence](https://github.com/jobkubera-lab/jobkubera-lab/tree/main/kubera-lab/tender-intelligence) | Evidence-led procurement capability | P2 / applied |
+| [KUBERA Agent OS](https://github.com/kubera-lab/kubera-lab/tree/main/kubera-lab/agent-os) | AI control, assurance and bounded execution | P0 / flagship |
+| [KUBERA TAO LAB](https://github.com/kubera-lab/kubera-lab/tree/main/kubera-lab/kubera-tao-lab) | ML evaluation discipline | P1 / active research |
+| [KUBERA Real Estate OS](https://github.com/kubera-lab/kubera-lab/tree/main/kubera-lab/real-estate-os) | Applied product architecture + verified core | P1 |
+| [Tender Intelligence](https://github.com/kubera-lab/kubera-lab/tree/main/kubera-lab/tender-intelligence) | Evidence-led procurement capability | P2 / applied |
 
 ---
 
@@ -64,7 +64,7 @@ A **free, static client-side tool** for relocation/visa planning.
 
 ### `/visa-playbooks`
 
-Older visa and country-specific guidance (now superseded by [`kubera-visa-playbooks`](https://github.com/jobkubera-lab/kubera-visa-playbooks) repository).
+Older visa and country-specific guidance (now superseded by [`kubera-visa-playbooks`](https://github.com/kubera-lab/kubera-visa-playbooks) repository).
 
 ### Other files
 
@@ -76,10 +76,10 @@ Older visa and country-specific guidance (now superseded by [`kubera-visa-playbo
 
 ## Technical note on the GitHub username
 
-The GitHub account username is still `jobkubera-lab` for backward compatibility. This remains in working repository URLs across all KUBERA LAB projects.
+The GitHub account username is still `kubera-lab` for backward compatibility. This remains in working repository URLs across all KUBERA LAB projects.
 
-**Account username:** `jobkubera-lab`  
-**Primary profile:** [github.com/jobkubera-lab](https://github.com/jobkubera-lab)
+**Account username:** `kubera-lab`  
+**Primary profile:** [github.com/kubera-lab](https://github.com/kubera-lab)
 
 ---
 
@@ -87,15 +87,15 @@ The GitHub account username is still `jobkubera-lab` for backward compatibility.
 
 ### If you're interested in KUBERA LAB's current work
 
-👉 **[KUBERA LAB main repository](https://github.com/jobkubera-lab/jobkubera-lab)**
+👉 **[KUBERA LAB main repository](https://github.com/kubera-lab/kubera-lab)**
 
 ### If you're learning to become an AI engineer
 
-👉 **[Kubera Learning](https://github.com/jobkubera-lab/kubera-learning)** — AI engineer roadmap and intelligence library
+👉 **[Kubera Learning](https://github.com/kubera-lab/kubera-learning)** — AI engineer roadmap and intelligence library
 
 ### If you need migration/visa resources
 
-👉 **[Kubera Visa Playbooks](https://github.com/jobkubera-lab/kubera-visa-playbooks)** — current country guidance
+👉 **[Kubera Visa Playbooks](https://github.com/kubera-lab/kubera-visa-playbooks)** — current country guidance
 
 ---
 
